@@ -2,7 +2,7 @@
  * :::::::::::::::::: Operadores aritmeticos ::::::::::::::::::
  * Programa que lee dos enteros y realiza la suma
  */
-package com.cbk.operadores;
+package com.cbk.curso.operadores;
 
 import java.util.Scanner;
 
